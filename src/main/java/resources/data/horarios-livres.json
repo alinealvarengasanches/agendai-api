@@ -1,0 +1,16 @@
+[
+  {
+    "id": 101,
+    "profissionalId": 1,
+    "inicio": "2025-11-05T09:00:00",
+    "fim": "2025-11-05T10:00:00",
+    "agendado": false
+  },
+  {
+    "id": 102,
+    "profissionalId": 1,
+    "inicio": "2025-11-05T10:00:00",
+    "fim": "2025-11-05T11:00:00",
+    "agendado": false
+  }
+]

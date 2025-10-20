@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "nome": "Dr. João Silva",
+    "fotoUrl": "/images/joao.png",
+    "bio": "Especialista em fisioterapia esportiva com 10 anos de experiência.",
+    "email": "joao@pro.com",
+    "senha": "123"
+  }
+]
